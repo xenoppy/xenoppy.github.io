@@ -19,6 +19,7 @@ Projects
 - **A bootstrapping Lisp-like functional language interpreter**
 - **A Gobang(five-in-a-row) AI based on Minimax Algorithm**
 - **A infectious computer virus based on inport table injection**
+
 ...
 
 Research
