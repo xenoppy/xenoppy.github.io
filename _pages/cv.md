@@ -46,9 +46,10 @@ performance. Additionally, NVM also serves to offer buffer for writing.
 * Duties included: Design and Implementation of filesystem | Development of SSD simulation environment
 * Supervisor: Dr. Li Lin
 
-PROJECT EXPERIENCE
+([PROJECT](https://ucsd.edu/))
 ======
 
+I have some projects related to operating systems, compilers, database. Please see my 
 Porting and Packing of Thunderbird 102.0 from X86 to Loongarch64 - May. 2023 ~ Jul.2023
 ------
 * Completed to port a popular open-source software to a new architect "Loongarch64", where there are rare compiling
@@ -62,6 +63,7 @@ Design and Implementation of a bootstrapping interpreter of lisp-like functional
 Design and Inplementation of a cluster storage engine and a search engine of database  - Apr. 2022 ~ Jun.2022
 -----
 * Project of the challenging course "Principle and Implementation of Database System"
+* A toy
 
 Five chess AI based on Minimax and Alpha-Beta-pruning - Apr. 2021 ~ Jun.2021
 -----
