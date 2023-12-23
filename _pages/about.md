@@ -14,12 +14,13 @@ Experiences
 - **Sichuan Hwadee Information Technology Ltd.**, *Intern Web Engineer*
 - **Tencent Technology(Shenzhen) Ltd.**, *Intern Secure Engineer*
 
-Projects
+[PROJECT](https://xenoppy.github.io/projects/)
 ======
+I have some projects related to operating systems, compilers, database. Please see my [Github](https://github.com/xenoppy/) or [Project page](https://xenoppy.github.io/projects/).
+
 - **A bootstrapping Lisp-like functional language interpreter**
 - **A Gobang(five-in-a-row) AI based on Minimax Algorithm**
 - **A infectious computer virus based on inport table injection**
-
 ...
 
 Research

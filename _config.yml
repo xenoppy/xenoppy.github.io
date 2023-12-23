@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weichu Yang"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "System Zealot"
   location         : "Chengdu, Sichuan, China "
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,12 +102,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/weichu-yang-b039b229b/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : https://steamcommunity.com/profiles/76561198857012854/
+  steam            : # https://steamcommunity.com/profiles/76561198857012854/
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
