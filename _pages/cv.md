@@ -34,6 +34,7 @@ redirect_from:
 
 *Supervisor: Dr. Li Lin* \
 *Designed and implemented a novel cooperative filesystem that optimizes I/O performance by coordinating between the host and emerging computing-capable SSD, especially in the case of disaggregated computing and storage resources.*
+* Proposed a collaborative solution that offloads certain filesystem operations from the host to the SSD, such as Path-Lookup and File-Mapping.
 * Conducted a comprehensive comparative study on the state-of-the-art filesystems and proposed an innovative space layout management scheme meeting high concurrency requirements.
 * Developed a highly adaptive logging system to ensure maximum reliability with minimal overhead for this filesystem.
 * Customized and pruned an open-source *SSD* simulator to provide a simulation platform evaluating the performance of the computing-capable *SSD*.
@@ -87,13 +88,13 @@ redirect_from:
 ## Light Volleyball Team of School of Computer Science and Engineering *(SCSE)*
 *Captain*
 * Led a team of 8 members in skill development and competition.
-* Directed regular team practices and led our team to win the **Champion** of Cup of *UESTC*.
+* Directed regular team practices and led our team to win the **Champion** of *Cup of UESTC*.
 
 
 ## Light Volleyball Team of University of Electronic Science and Technology of China *(UESTC)*
 *Vice Captain*
 * Led a team of 10 members in skill development and competition.
-* Directed regular team practices and led our team to take part in the Sichuan provincial match, ranking 4th among numerous university teams.
+* Directed regular team practices and led our team to take part in the Sichuan provincial match, ranking **4th** among numerous university teams.
 
 # Miscellaneous
 
