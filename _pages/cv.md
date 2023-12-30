@@ -14,7 +14,8 @@ redirect_from:
 
 # Education
 
-## University of Electronic Science and Technology of China(UESTC) - Sep.2020 ~ Jun.2024(expected)
+## University of Electronic Science and Technology of China(UESTC) - Sep.2020 ~ Jul
+.2024(expected)
 * Major: Computer Science and Technology \| **GPA:3.93/4.00**
 * Core course: The C/C++ Programming, Computer Operating System, Programming Languages and Compiling, Software Engineering, Principle and Application of Database, Principles of Computer Organization,  Computer Architecture.
 
